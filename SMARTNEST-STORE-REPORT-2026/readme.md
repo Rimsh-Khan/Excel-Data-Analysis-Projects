@@ -52,7 +52,9 @@ Adult women lead the segments. They place the most orders (about 35%), ahead of 
 
 ## Recommendations for 2027
 Target women, especially adults. Run focused campaigns and new collections for this segment.
+
 Double down where it works. Prioritise Amazon, Myntra, Flipkart and the top 3 states, and test growth in other states.
+
 Plan around the seasons. Stock up and launch offers before November, and add promotions for December.
 
 ## Tools Used
