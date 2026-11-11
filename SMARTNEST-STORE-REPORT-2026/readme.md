@@ -44,10 +44,15 @@ The following steps were performed:
 
 ## Key Insights
 Women drive the sales. They contributed 64% of total sales (13.56M of 21.18M), versus 36% from men.
+
 Maharashtra is the top state. It has the highest sales at 2.99M, followed by Karnataka (2.65M) and Uttar Pradesh (2.10M).
+
 Three channels dominate. Amazon (35%), Myntra (23%) and Flipkart (22%) together bring 80% of all orders.
+
 Strong order fulfilment. 92% of orders were delivered. Only 8% were cancelled, returned or refunded.
+
 November is the peak month. It has the highest sales and orders, while December is the weakest.
+
 Adult women lead the segments. They place the most orders (about 35%), ahead of teenage women (21%) and adult men (15%).
 
 ## Recommendations for 2027
