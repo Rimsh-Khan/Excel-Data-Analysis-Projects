@@ -58,6 +58,8 @@ Data Visualization & Visual Formatting: Developed tailored charts and applied co
 
 Interactive Reporting & Dashboard Assembly: Integrated dynamic slicers, cross-filtering, and KPI cards into a cohesive, self-service reporting interface.
 
+
+
 Key Analytical Insights (Sample View: May 2023)
 
 1. Patient Volume & Admission Outcomes
