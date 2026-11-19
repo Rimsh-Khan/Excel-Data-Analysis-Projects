@@ -1,8 +1,8 @@
-Purpose of This Project
+**Purpose of This Project**
 
 I created a Hospital Emergency Room Analysis Dashboard in Microsoft Excel to improve operational efficiency and provide actionable insights. This interactive dashboard helps hospital stakeholders monitor, analyze, and make data-driven decisions for managing patient flow and improving emergency care services.
 
-Key Performance Indicator (KPI) Specifications
+**Key Performance Indicator (KPI) Specifications**
 
 Core operational and patient-experience metrics designed to monitor daily Emergency Room (ER) volume, service efficiency, and care quality:
 
@@ -30,7 +30,7 @@ Visualization: Primary KPI card paired with an area sparkline illustrating daily
 
 Analytical Objective: Evaluate perceived quality of care, detect sudden declines in satisfaction, and correlate service drops with operational pressures such as peak volume or extended wait times.
 
-Project Implementation Steps
+**Project Implementation Steps**
 
 Phase 1: Discovery & Data Ingestion
 
@@ -58,9 +58,8 @@ Data Visualization & Visual Formatting: Developed tailored charts and applied co
 
 Interactive Reporting & Dashboard Assembly: Integrated dynamic slicers, cross-filtering, and KPI cards into a cohesive, self-service reporting interface.
 
-![Horizon Pulse Hospital Emergency Room Dashboard](HORIZON-PULSE-HOSPITAL-ER-DASHBOARD/Hospital_dashboardimage.png)
 
-Key Analytical Insights (Sample View: May 2023)
+**Key Analytical Insights (Sample View: May 2023)**
 
 1. Patient Volume & Admission Outcomes
 
@@ -90,7 +89,7 @@ Primary ER Resolution: The vast majority of cases (604 across the active referra
 
 Top Specialist Referrals: Among referred cases, General Practice (195) and Orthopedics (86) accounted for the highest specialist demand, followed by Physiotherapy (35), Neurology (27), Cardiology (23), Gastroenterology (20), and Renal (9).
 
-Actionable Recommendations
+**Actionable Recommendations**
 
 Optimize Peak-Hour Staffing: Align physician and triage nurse schedules with high-volume arrival windows to reduce the 34.4-minute average wait time and improve the 26% on-time rate.
 
