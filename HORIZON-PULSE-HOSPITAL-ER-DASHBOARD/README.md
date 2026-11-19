@@ -58,7 +58,7 @@ Data Visualization & Visual Formatting: Developed tailored charts and applied co
 
 Interactive Reporting & Dashboard Assembly: Integrated dynamic slicers, cross-filtering, and KPI cards into a cohesive, self-service reporting interface.
 
-HORIZON-PULSE-HOSPITAL-ER-DASHBOARD/Hospital_dashboardimage.png
+![Horizon Pulse Hospital Emergency Room Dashboard](HORIZON-PULSE-HOSPITAL-ER-DASHBOARD/Hospital_dashboardimage.png)
 
 Key Analytical Insights (Sample View: May 2023)
 
